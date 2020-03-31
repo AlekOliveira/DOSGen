@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1585689432 source:c:\users\alexandre\desktop\dosed2\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"TAD.h"
+
+1585689233 c:\users\alexandre\desktop\dosed2\tad.h
+

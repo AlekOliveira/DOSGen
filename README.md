@@ -33,3 +33,14 @@ O projeto conta com uma estrutura de dados baseada em listas encadeadas e listas
 **F12**     Exibe todos os comandos digitados(necessario usar o doskey antes de cada consulta).
 
 **SAIR**    Encerra o programa.
+
+### SINTAXE DOS COMANDOS COM PARAMETROS
+#CD nomeDir ou CD unidade:\diretorio
+#MD nomedir
+#RD nomeDir
+#COPYCON nomeArq
+DEL nomeArq
+TYPE nomeArq
+FC nomeArq1 nomeArq2
+COPY nomeArq unidade:\caminho....
+FIND palavraChave unidade:\caminho...

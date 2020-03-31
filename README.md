@@ -6,7 +6,7 @@ O projeto conta com uma estrutura de dados baseada em listas encadeadas e listas
 ![img](https://github.com/AlekOliveira/DOSGen/blob/master/5.png)
 
 ### Comandos Implementados
-DIR     Exibe uma listagem de arquivos e subdiretorios presentes no diretorio atual.
+**DIR**     Exibe uma listagem de arquivos e subdiretorios presentes no diretorio atual.
 
 CLS     Limpa a tela.
 

@@ -36,13 +36,20 @@ O projeto conta com uma estrutura de dados baseada em listas encadeadas e listas
 
 ### SINTAXE DOS COMANDOS COM PARAMETROS
 
-#CD nomeDir ou CD unidade:\diretorio
+CD nomeDir ou CD unidade:\diretorio
+MD nomedir
 
-#MD nomedir
-#RD nomeDir
-#COPYCON nomeArq
+RD nomeDir
+
+COPYCON nomeArq
+
 DEL nomeArq
+
 TYPE nomeArq
+
 FC nomeArq1 nomeArq2
-COPY nomeArq unidade:\caminho....
+
+COPY nomeArq unidade:\caminho...
+
 FIND palavraChave unidade:\caminho...
+

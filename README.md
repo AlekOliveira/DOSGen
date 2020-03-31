@@ -34,6 +34,8 @@ O projeto conta com uma estrutura de dados baseada em listas encadeadas e listas
 
 **SAIR**    Encerra o programa.
 
+![img](https://github.com/AlekOliveira/DOSGen/blob/master/1.png)
+
 ### Sintaxe dos Comandos com Parâmetros
 
 CD nomeDir ou CD unidade:\diretorio

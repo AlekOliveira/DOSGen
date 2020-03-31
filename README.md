@@ -35,7 +35,9 @@ O projeto conta com uma estrutura de dados baseada em listas encadeadas e listas
 **SAIR**    Encerra o programa.
 
 ### SINTAXE DOS COMANDOS COM PARAMETROS
+
 #CD nomeDir ou CD unidade:\diretorio
+
 #MD nomedir
 #RD nomeDir
 #COPYCON nomeArq

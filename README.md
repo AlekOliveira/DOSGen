@@ -7,6 +7,7 @@ O projeto conta com uma estrutura de dados baseada em listas encadeadas e listas
 
 ### Comandos Implementados
 DIR     Exibe uma listagem de arquivos e subdiretorios presentes no diretorio atual.
+
 CLS     Limpa a tela.
 CD      Acessa o diretorio do caminho especificado, caso nao exista se mantem no mesmo.
 MD      Cria um diretorio dentro do diretorio atual.

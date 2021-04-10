@@ -8,7 +8,6 @@
 
 int main()
 {
-
     ///Alexandre Oliveira - RA 101730527
 
     Unidade *unidades = NULL;
@@ -162,27 +161,3 @@ int main()
 
     return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

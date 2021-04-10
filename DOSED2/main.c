@@ -10,7 +10,6 @@ int main()
 {
 
     ///Alexandre Oliveira - RA 101730527
-    ///Paulo Barreto - RA 261811215
 
     Unidade *unidades = NULL;
     Diretorio *dirAtual = NULL;
